@@ -1,14 +1,17 @@
-
-body{
+body {
   width: 100%;
   margin: 0 auto;
+  font-family: 'Georgia', serif;
+  color: #495E57;
 }
 
 li{
   list-style: none;
 }
-a{
+
+a {
   text-decoration: none;
+  color: #495E57;
 }
 
 nav{
